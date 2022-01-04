@@ -2,8 +2,7 @@
 - 👀 I’m interested in Quantum Computing
 <!---- 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...--->
-- 📫 How to reach me:
-  mail: sebastian.bock@fokus.fraunhofer.de
+- 📫 How to reach me: sebastian.bock@fokus.fraunhofer.de
 
 <!---
 bastibock/bastibock is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
